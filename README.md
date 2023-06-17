@@ -7,7 +7,9 @@ Funcionalidades
 Permite que dois jogadores joguem o jogo da velha em um mesmo terminal.
 Exibe o tabuleiro atualizado após cada jogada.
 Verifica automaticamente se um jogador venceu o jogo ou se houve um empate.
+
 Como jogar
+
 Execute o programa JogoDaVelha.java.
 O jogador X começa o jogo. O jogador O segue em seguida.
 No seu turno, informe as coordenadas da posição onde deseja marcar no formato linha-coluna (por exemplo, "0-0" para marcar a posição superior esquerda).
