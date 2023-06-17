@@ -1,11 +1,11 @@
-##Jogo da Velha
+Jogo da Velha
 
 Este é um jogo da velha simples implementado em Java. O jogo é jogado em um tabuleiro 3x3, onde dois jogadores se alternam para marcar suas posições com os símbolos 'X' e 'O'. O jogador que conseguir colocar três de seus símbolos em uma linha horizontal, vertical ou diagonal será o vencedor. Se todas as posições forem preenchidas e nenhum jogador vencer, o jogo termina em empate.
 
 ---
 
 
-##Funcionalidades
+Funcionalidades
 
 * Permite que dois jogadores joguem o jogo da velha em um mesmo terminal.
 * Exibe o tabuleiro atualizado após cada jogada.
@@ -14,7 +14,7 @@ Este é um jogo da velha simples implementado em Java. O jogo é jogado em um ta
 ---
 
 
-##Como jogar
+Como jogar
 
 * Execute o programa JogoDaVelha.java.
 * O jogador X começa o jogo. O jogador O segue em seguida.
