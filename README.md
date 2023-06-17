@@ -12,7 +12,7 @@ Como jogar
 
 * Execute o programa JogoDaVelha.java.
 * O jogador X começa o jogo. O jogador O segue em seguida.
-* No seu turno, informe as coordenadas da posição onde deseja marcar no formato linha-coluna (por exemplo, * * * "0-0" para marcar a posição superior esquerda).
+* No seu turno, informe as coordenadas da posição onde deseja marcar no formato linha-coluna (por exemplo, * * "0-0" para marcar a posição superior esquerda).
 * O jogo exibirá o tabuleiro atualizado e aguardará a próxima jogada.
 * Continue jogando até que haja um vencedor ou empate.
 * O jogo terminará e exibirá o resultado final.
