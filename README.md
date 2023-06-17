@@ -4,6 +4,7 @@ Este é um jogo da velha simples implementado em Java. O jogo é jogado em um ta
 
 ---
 
+
 *Funcionalidades*
 
 * Permite que dois jogadores joguem o jogo da velha em um mesmo terminal.
@@ -11,6 +12,7 @@ Este é um jogo da velha simples implementado em Java. O jogo é jogado em um ta
 * Verifica automaticamente se um jogador venceu o jogo ou se houve um empate.
 
 ---
+
 
 *Como jogar*
 
